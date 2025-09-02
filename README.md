@@ -10,7 +10,7 @@ Users can **track transactions, set expense limits, and view summaries** with au
 - 💸 Add, edit, and delete income & expenses
 - 📊 Dashboard with total income, expenses & balance
 - 📉 Expense limit alerts (based on % of income)
-- 📅 View transaction history
+- 📅 View transaction history with filtering options
 - 📝 Categorize expenses for better tracking
 
 ---
