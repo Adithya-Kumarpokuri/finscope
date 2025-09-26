@@ -20,5 +20,6 @@ Users can **track transactions, set expense limits, and view summaries** with au
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Authentication:** JWT, bcrypt  
+--used Cloudinary
 
 ---
